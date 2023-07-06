@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang = "es"> <!-- Esta cosa indrea el lenguaje -->
+<head>
+<meta charset  = "UTF-8">
+<title> Trabajos de cesar y Gustavo </title>
+<link rel="icon" type="image/png" href=" tu y yo.png">
+</head>
+<body>
+              <h1 align="center"> Trabajos de informatica de Cesar y Gustavo </h1>
+             <hr>
+             <img src="imagenes001.png" width="450" border="2"
+<div>
+
+</div>
+
+
+</HTML>
+</body>
