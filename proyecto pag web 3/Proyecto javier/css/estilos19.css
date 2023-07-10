@@ -1,0 +1,37 @@
+body {
+	background: red;
+}
+header{background:red;
+}
+div{background:red;
+}
+ul{background:yellow;
+}
+section{background:purple;
+}
+article{background:green;
+}
+{
+margin:10px;
+}
+font-size:5px;
+{
+nav{background:blue;
+}
+aside{background:green;
+	{
+.menu{
+width:100%;
+background:gray;
+list-style:nome;/
+margin:0;
+top:0;
+}
+.menu li {
+	display:inline-block;
+}
+.menu li a{
+	padding:10px 20px;
+	diaplay:inline-block;/
+	color:blue;
+}
