@@ -1,0 +1,18 @@
+﻿<!DOCTYPE HTML>
+	<Html lang = "es">
+	<Head>
+		<meta charset = "UTF-8">
+		<Title> Pagina 000 </title>
+	</head>
+	<body>
+
+		<h1 Align="center"></h1>
+		
+
+
+
+
+
+
+	</body
+</html>														
