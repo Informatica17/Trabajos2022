@@ -1,0 +1,25 @@
+body{
+background:#E6CAFF;
+}
+div{
+background:#F1E1FF;
+}
+.menu {
+	width:100%;
+	background:#E69DFB;
+	list-style:none;
+	margin:0;
+	padding:0;
+	top:0;
+}
+.menu li{
+	display:inline-block;
+}
+.menu li a {
+	padding:10px 20px;
+	display: inline-block;
+	color:white;
+}
+.menu li a:hover{
+	background:gray;
+	color:white;

@@ -1,0 +1,22 @@
+body{background:#FF002E;font-size:25px;color:#00FFF6;}
+div{background:#B3001D;}
+.menu {
+	width:100%;
+	background:#B3001D;
+	list-style:none;
+	margin:0;
+	padding:0;
+	top:0;
+}
+.menu li {
+	display:inline-block;
+}
+.menu li a {
+	padding:10px 10px;
+	display:inline-block;
+	color:#00FFF6;
+}
+.menu li a:hover{
+	background:#FFCC74;
+	color:#F4034A;
+}
