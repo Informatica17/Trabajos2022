@@ -1,0 +1,17 @@
+body{
+background:url(../recursos/esotilin.png);
+background-attachment:fixed;
+}
+p{
+	color:white;
+}
+h1{
+	color:white;
+}
+h2{
+	color:white;
+}
+
+h6{
+	color:red;
+}
