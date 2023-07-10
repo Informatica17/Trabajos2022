@@ -1,0 +1,20 @@
+body{
+	background:#BF92E4;
+	background:url(png2.png);
+}
+p {
+	color:black;
+	font-size:20 px;
+}
+h1 {
+	color:black;
+	font-family:"Arial Black";
+}
+div{
+		
+	font-size:25px;
+	border: 2px solid #FDA4BA;
+}
+p{
+	font-family:"Arial Narrow";
+}
