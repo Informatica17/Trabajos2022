@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title> mi segunda pagina web 002</title>
+</head>
+<body>
+<h1>mi pagina web 002</h1>
+<p>En esta segunda pagina web conozco que el codigo de la pagina es HTML, indico al idioma español, y el tipo de caracteres a UTF-8</p>
+</body>
+</html>
