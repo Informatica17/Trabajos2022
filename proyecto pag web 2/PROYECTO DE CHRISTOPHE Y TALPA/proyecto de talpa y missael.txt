@@ -1,0 +1,71 @@
+<DOCTYPE HTML>
+           <html lang=''es''>
+<head>
+        <meta charset=''UTF-8''>
+     <title> TRABAJOS DE TALPA Y MISSAEL</title>
+     <link rel=''icon''   type=''image/jpg''   href=''RS . jpg'' />
+     <link rel =''stylesheet'' type='' text/css'' href= ''css/estilos.css'' />
+   </head>
+   <body>
+
+     <center><h1>TRABAJOS DE TALPA Y MISSAEL</h1></center>
+     <hr>
+
+     <
+     <p>en esta actividad estabamos probando el color y saltos de linea</p>
+     <img src=''captura . jpg'' width= ''350''  border=''1''>
+     <img src=''captura 4 . jpg'' width=''350''  border=''1''>
+     </div>
+     <hr>
+   
+     <div> 
+     
+     <p>en esta actividad estamos poniendo parrafos ordenados</p>
+     <img src="captura 003 . jpg'' width=''350'' border=''1''>
+     <img src=''capturs 0003 . jpg''  width=''350'' border=''1''>
+
+     </div>
+     <hr>
+
+     <div>
+     <p> en esta actividad estamos poniendo parafos intentando o aprendiendo a cambiar el color de fondo de la pagina</p>
+    <img src=''captura 005 . jpg'' width=''350'' border=''1''>
+    <img src=''captura 0005 . jpg'' width=''350''b border=''1''> 
+    </div>
+    <hr>
+
+    <div>
+    <p>en esta pagina teniamos que poner una imagen para no nos salio </p>
+    <img src=''captura 006 . jpg'' width=''350'' border=''1''>
+    <img src=''captura 0006 . jpg''  width=''350'' border=''1''>
+    </div>
+    <hr>
+    <div>
+    <p> lamaqueta es muy importante para no perder el tiempo </p>
+    
+    <img src=''maqueta.jpg'' width=''350'' border=''1">
+    <img src=''maqueta2.jpg'' width=''350'' border=''1"> 
+   </div>
+    <hr>
+   <div>
+   <img src=''imagen 1.jpg'' width=''350''  bordes=''1''>
+   <img src=''imagen 2.jpg'' width=''350''  bordes=''1''>
+  </div>
+  <hr>
+  <div>
+    <img src=''imagen 3.jpg'' width=''350''  bordes=''1''>
+   <img src=''imagen 4.jpg'' width=''350''  bordes=''1''>
+   </div>
+  <hr>
+  <div>
+    <img src=''imagen 5.jpg'' width=''350''  bordes=''1''>
+   <img src=''imagen 6.jpg'' width=''350''  bordes=''1''>
+    </div>
+  <hr>
+  <div>
+    <img src=''imagen 7.jpg'' width=''350''  bordes=''1''>
+   <img src=''imagen 8.jpg'' width=''350''  bordes=''1''>
+   </div>
+
+   <div>
+     <img src=''imagen 11.jpg'' width=''350''  bordes=''1''>

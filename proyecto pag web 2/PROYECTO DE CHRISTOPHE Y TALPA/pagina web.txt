@@ -1,0 +1,10 @@
+<!DOCTYPE HTML> 
+  <html lang="es''>
+  <head>
+     <meta charset=''UTF-8''>
+     <title> Trabajo de missael y talpa 1-x</title>
+    <link rel=''ícon'' type=''image/jpg'' href=''UG.jpg''/>
+    <link rel=''stylesheet'' type'=''text/css'' href=css/missael y talpa.css>
+  </head>
+        <body>
+ 

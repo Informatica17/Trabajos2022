@@ -1,0 +1,17 @@
+body{background:black; color:white;}
+	{background:url(image.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;}
+h1{color:yellow;}
+div.Primero{color:black; background:pink;}
+div.Segundo{color:white; background:green;}
+div.Tercero{color:purple; background:grey;}
+div.Cuarto{color:red; background:aqua;}
+div.Quinto{color:blue; background:red;}
+div.Sexto{color:yellow; background:blue;}
+div.Septimo{color:pink; background:white;}
+div.Octavo{color:brown; background:yellow;}
+div.Noveno{color:white;}
+div.Decimo{color:pink; background:purple;}
+div.Onceavo{color:black; background:white;}
