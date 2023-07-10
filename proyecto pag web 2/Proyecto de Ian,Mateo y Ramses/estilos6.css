@@ -1,0 +1,24 @@
+		body{
+			margin:0;
+			padding:0;
+			background: url(galaxia.jpg);
+			background-size:cover;
+			background-position:center;
+			color:white;
+		}
+		div{
+			color:white;
+			margin:1 in;
+			padding:0%;
+			border:5px solid:gray;
+			font-family:"Comic Sans Ms";
+			font-size:20px;
+		}
+		p.parrafo1{
+			background:black;
+		}
+		p.parrafo2{
+			background:black;
+			font-size:25px;
+			font-family:"Ariel";
+		}

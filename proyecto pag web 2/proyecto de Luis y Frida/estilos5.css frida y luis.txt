@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+	<html lang="es">
+	<head>
+	<meta charset ="UTF-8">
+	<title> Titulo de mi pagina </title>
+	<link rel="icon" type="image/jpg" href="modelo caja.png">
+	<link rel="stylesheet" type="text/css" href="css/estilos.css"/>
+	</head>
+	<body>
+	<div>
+<img src="modelo de caja.png" width="300" border="1" title="formas de poner color" alt>
+</div>
+		<h1> modelo de caja </h1>
+		<div>
+			<p> este es un parrafo dentro de una caja </p>
+		</div>
+</body>
+	</html>

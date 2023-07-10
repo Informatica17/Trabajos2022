@@ -1,0 +1,16 @@
+body {
+	background: silver;
+	background: url(UG.ico);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+h1{
+	color: pink;
+}
+
+p{
+	font-family:"Times New Roman";
+}

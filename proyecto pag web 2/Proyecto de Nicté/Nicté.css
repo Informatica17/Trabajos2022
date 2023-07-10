@@ -1,0 +1,17 @@
+﻿body{
+	background:pink;
+	background:url(icono.jpg);
+
+	background-position-center;
+	background-attachment-fixed;
+	background-size:50%;
+}
+
+h1{
+	color:black;
+}
+
+div{
+	color:gray;
+	font-size:40px;
+}
