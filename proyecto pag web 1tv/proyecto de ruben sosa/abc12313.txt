@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title> trabajos de sosa 1-x </title>
+<link rel= 
+</head>
+<body>
+        <h1 aling="center">tra </h1>
+        <hr>
+        
+        <div>
+		<p>en esta pagina web solo pusimos un parrafo</p>
+                 <img src="pagina 002.png" width="300" border="2" alt="mi segunda pagina web" width="300" border="2" alt="mitercera pagina web">
+                 <img src="pagina web 002.png" width="250" border="2" alt="mi segunda pagina web">
+        </div>
+
+	<hr>
+
+	<div>
+		<p>en esta pagina web usamos varios formatos</p>
+                 <img src="pagina 003.png"width="250" border="2" alt="mitercera pagina web" width="300" border="2" alt="mitercera pagina web">
+                 <img src="pagina web 003.png" width="250" border="2" alt="mitercera pagina web">
+        </div>
+
+	<hr>
+        
+        <div>
+                <p>en esta pagina web hicimos una lista ordenada y otra no ordenada</p>
+                  <img src="pagina 004.png" width="250" border="2" alt="micuarta pagina web" width="300" border="2" alt="mitercera pagina web">
+                  <img src="pagina web 004.png" width="250" border="2" alt="micuarta pagina web">
+       </div>
+
+	<hr>
+	asdfadsfsdf        
+        <div>
+
+                <p>en esta pagina web pusimos una imagen gigante de un gatito</p>
+                  <img src="pagina 006.png"width="250" border="2" alt="misexta pagina web" width="300" border="2" alt="mitercera pagina web">
+                  <img src="pagina web 006.png" width="250" border="2" alt="misexta pagina web">
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
