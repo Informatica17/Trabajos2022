@@ -1,0 +1,40 @@
+h1{
+background:#C2FF68;
+}
+
+body{
+background:url(../recursos/lulu99.jpg);
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+}
+
+
+div{
+background:#C2FF68;
+font-size:15px;
+width:90%;
+}
+
+.menu{
+width:90%;
+background:gray;
+list-style:none;
+margin:0;
+padding:0;
+top:0;
+}
+
+.menu li{
+display:inline-block;
+}
+
+.menu li a{
+padding:10px 20px;
+display:inline-block;
+color:white;
+}
+
+.menu li a:hover{
+
+
