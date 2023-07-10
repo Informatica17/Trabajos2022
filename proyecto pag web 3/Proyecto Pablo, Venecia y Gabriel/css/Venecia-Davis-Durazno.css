@@ -1,0 +1,24 @@
+body {
+		background-color:black;
+		background: url(../recursos/informatica.jpg);
+		background-attachment:fixed;
+		color:red;
+}
+.menu	{
+		Width:100%;
+		list-style:none;
+		margin:0;
+		padding:0;
+		top:0;
+}
+.menu li{
+		display:inline-block;
+}
+.menu li a {
+		padding:10px 20px;
+		display:inline-block;
+		color:salmon;
+.menu li a:hover{
+		background:black;
+		color:blue;
+}
